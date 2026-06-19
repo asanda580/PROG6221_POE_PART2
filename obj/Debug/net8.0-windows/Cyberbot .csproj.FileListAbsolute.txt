@@ -1,0 +1,6 @@
+C:\Users\Asanda Ndlovu\Desktop\cyberbot\obj\Debug\net8.0-windows\Cyberbot .csproj.AssemblyReference.cache
+C:\Users\Asanda Ndlovu\Desktop\cyberbot\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Asanda Ndlovu\Desktop\cyberbot\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Asanda Ndlovu\Desktop\cyberbot\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Asanda Ndlovu\Desktop\cyberbot\obj\Debug\net8.0-windows\Cyberbot _MarkupCompile.cache
+C:\Users\Asanda Ndlovu\Desktop\cyberbot\obj\Debug\net8.0-windows\Cyberbot .g.resources
